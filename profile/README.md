@@ -42,7 +42,7 @@ Sinas is a self-hosted backend for AI-powered applications. Configure agents wit
 ```bash
 git clone https://github.com/sinas-platform/sinas.git
 cd sinas
-sudo bash install.sh
+./install.sh
 ```
 
 ### License
